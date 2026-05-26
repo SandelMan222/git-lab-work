@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 CMakeFiles/benchmark_symm.dir/benchmark_symm.c.o CMakeFiles/benchmark_symm.dir/symm.c.o -o benchmark_symm  -lopenblas -lm 

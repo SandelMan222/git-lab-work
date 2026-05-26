@@ -1,0 +1,3 @@
+/mnt/c/CBLAS_test/CBLAS_test/test/build/CMakeFiles/benchmark_symm.dir
+/mnt/c/CBLAS_test/CBLAS_test/test/build/CMakeFiles/edit_cache.dir
+/mnt/c/CBLAS_test/CBLAS_test/test/build/CMakeFiles/rebuild_cache.dir

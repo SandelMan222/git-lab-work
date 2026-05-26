@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 CMakeFiles/run_tests.dir/tests.c.o -o run_tests  -lopenblas -lm 
